@@ -1,5 +1,5 @@
 
-PyopenMS - Proteomics pipeline 
+PyopenMS - Proteomics pipeline (ML.ipynb & Feature Extraction)
 
 Step 1 : Obtain RAW data files (12GB) from Ecoli Benchmark database 
 http://www.cac.science.ru.nl/research/data/ecoli/
@@ -14,3 +14,5 @@ Step 3 : Uses ML techniques to perform clustering and classifications
 3) Classification - Logistic regression
 
 Infer the results from the clusters and ROC_AUC curves
+
+
