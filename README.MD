@@ -1,4 +1,5 @@
-Week10 - task - PyopenMS - Proteomics pipeline 
+
+PyopenMS - Proteomics pipeline 
 
 Step 1 : Obtain RAW data files (12GB) from Ecoli Benchmark database 
 http://www.cac.science.ru.nl/research/data/ecoli/
